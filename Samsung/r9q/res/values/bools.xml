@@ -23,5 +23,6 @@
     <bool name="config_allowAutoBrightnessWhileDozing">true</bool>
     <dimen name="rounded_corner_radius_bottom">26.0dip</dimen>
     <dimen name="rounded_corner_radius_top">26.0dip</dimen>
+
 </resources>
 
