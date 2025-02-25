@@ -26,7 +26,9 @@
          <item type="dimen" name="status_bar_height">@dimen/status_bar_height_portrait</item>
          <dimen name="status_bar_height_default">130px</dimen>
          <dimen name="status_bar_height_portrait">130px</dimen>
+    <item type="dimen" name="status_bar_padding_start">@dimen/status_bar_padding_start</item>
      <dimen name="status_bar_padding_start">40px</dimen>
+    <item type="dimen" name="status_bar_padding_end">@dimen/status_bar_padding_end</item>
     <dimen name="status_bar_padding_end">40px</dimen>
         
 </resources>
